@@ -26,25 +26,8 @@ This boilerplate is set up for **fast development** and is ideal for team-based 
 
 ## 🗂️ Folder Structure
 
-src/
-├── api/
-│ └── axiosInstance.ts
-├── redux/
-│ ├── store.ts
-│ ├── rootReducer.ts
-│ ├── slices/
-│ │ ├── homeSlice.ts
-│ │ └── profileSlice.ts
-│ └── actions/
-│ ├── homeActions.ts
-│ └── profileActions.ts
-├── types/
-│ └── index.ts
-├── screens/
-│ ├── HomeScreen.tsx
-│ └── ProfileScreen.tsx
-├── hooks.ts
-└── App.tsx
+![Screenshot from 2025-07-04 17-07-02](https://github.com/user-attachments/assets/c226fae0-e21d-4d83-b80c-663560b76678)
+
 
 ---
 
