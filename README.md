@@ -26,8 +26,7 @@ This boilerplate is set up for **fast development** and is ideal for team-based 
 
 ## 🗂️ Folder Structure
 
-![Screenshot from 2025-07-04 17-07-02](https://github.com/user-attachments/assets/c226fae0-e21d-4d83-b80c-663560b76678)
-
+![Screenshot from 2025-07-04 15-52-29](https://github.com/user-attachments/assets/84a8fe4e-276d-49d8-ada9-ba264866448a)
 
 ---
 
